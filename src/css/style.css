@@ -5,15 +5,20 @@
 }
 .box-1 {
   background-color: red;
-  width: 200px;
+  width: 350px;
 }
 .box-2 {
   background-color: green;
-  width: 250px;
+  width: 400px;
   top: 30px;
 }
 .box-3 {
   background-color: blue;
-  width: 300px;
+  width: 450px;
   top: 60px;
+}
+.box-4 {
+  background-color: yellow;
+  width: 500px;
+  top: 100px;
 }
